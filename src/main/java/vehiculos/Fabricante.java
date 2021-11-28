@@ -13,7 +13,7 @@ public class Fabricante {
 		Fabricante.listaFabricantes.add(this);
 	}
 	
-	public String getNomre() {
+	public String getNombre() {
 		return nombre;
 	}
 	
